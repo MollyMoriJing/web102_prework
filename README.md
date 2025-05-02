@@ -39,10 +39,11 @@ GIF created with Kap
 ## Notes
 
 Describe any challenges encountered while building the app.
-Initially had difficulty understanding how to implement the filter functions
-Worked through challenges with array methods like filter() and reduce()
-Struggled a bit with the template literal syntax for the stats display
-Learned a lot about JavaScript DOM manipulation and event handling
+
+- Initially had difficulty understanding how to implement the filter functions.
+- Worked through challenges with array methods like filter() and reduce().
+- Struggled a bit with the template literal syntax for the stats display.
+- Learned a lot about JavaScript DOM manipulation and event handling.
 
 ## License
 
