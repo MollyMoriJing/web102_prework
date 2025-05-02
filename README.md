@@ -17,7 +17,9 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [✅]
+- [✅] Added navigation bar to help users quickly move between different sections of the page.
+- [✅] Implemented search functionality allowing users to find specific games.
+- [✅] Created visual progress bars for each game to show funding progress relative to goals.
 
 ## Video Walkthrough
 
